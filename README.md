@@ -38,6 +38,7 @@ I enjoy collaborating with others on technical challenges, and I believe in cont
 # Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-patil-468564283/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](akshatvvpatil2003@gmail.com)
+📧 **Email**: your.email@example.com [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 
 
