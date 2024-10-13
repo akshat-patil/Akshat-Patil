@@ -48,9 +48,6 @@ I actively share my learnings and projects on platforms like LinkedIn and GitHub
 
 ### 📫 Connect with Me
 
-# Connect with Me
-# Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-patil-468564283/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatvvpatil2003@gmail.com) **akshatvvpatil2003@gmail.com**
