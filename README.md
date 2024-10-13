@@ -22,19 +22,13 @@ I enjoy collaborating with others on technical challenges, and I believe in cont
 
 ### 📂 Featured Projects
   
-- **[Loan Approval Prediction](https://github.com/akshat-patil/Technokraft-Internshipl)**  
+- **[Loan Approval Prediction](https://github.com/akshat-patil/Technokraft-Internship)**  
   - *Description:* Developed a machine learning model to predict loan approval and created an informative dashboard using Tableau.
   - *Technologies:* Python, Scikit-learn, Tableau, Pandas
 
-- **[Big Mart Sales Prediction](https://github.com/akshat-patil/Acadeor-Internship)**  
+- **[Big Mart Sales Prediction](https://github.com/akshat-patil/Academor-Internship)**  
   - *Description:* Implemented machine learning algorithms to optimize inventory management for Big Mart.
   - *Technologies:* Python, Pandas, Scikit-learn
-
-### 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ### 📫 Connect with Me
 
