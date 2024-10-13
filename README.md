@@ -13,6 +13,10 @@ I am an Artificial Intelligence and Data Science student passionate about solvin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ### 🌟 About Me
 I am a focus-driven individual currently pursuing a degree in Artificial Intelligence and Data Science. My journey includes working on a wide range of industry-oriented and real-time projects, applying my expertise in Data Science, Machine Learning, and Artificial Intelligence. My passion lies in using data to uncover insights, optimize processes, and develop intelligent systems that make a tangible impact.
