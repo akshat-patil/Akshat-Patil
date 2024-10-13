@@ -49,7 +49,7 @@ I actively share my learnings and projects on platforms like LinkedIn and GitHub
 
 ### 📝 Articles
 
-**[PLC (Siemens S7-1500) Programming using Python and Snap7 Library](https://github.com/akshat-patil/Articles)**
+**[My Articles](https://github.com/akshat-patil/Articles)**
 - **Description:** A collection of articles I’ve written on various topics related to Artificial Intelligence, Data Science, and technology trends. These articles aim to share knowledge and insights with the community.
 
 ### 📫 Connect with Me
