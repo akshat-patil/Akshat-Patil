@@ -47,6 +47,11 @@ I actively share my learnings and projects on platforms like LinkedIn and GitHub
   - *Description:* Developed an interactive dashboard using Power BI to analyze Spotify's most popular tracks, artists, and streaming trends over time.
   - *Technologies:* Power BI, Spotify Data, Data Visualization 
 
+### 📝 Articles
+
+**[PLC (Siemens S7-1500) Programming using Python and Snap7 Library](https://github.com/akshat-patil/Articles)**
+- **Description:** A collection of articles I’ve written on various topics related to Artificial Intelligence, Data Science, and technology trends. These articles aim to share knowledge and insights with the community.
+
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-patil-468564283/)
