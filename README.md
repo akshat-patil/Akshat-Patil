@@ -1,6 +1,5 @@
-# Hi, I'm [Akshat Patil] 👋
-### Artificial Intelligence & Data Science Student | Data Scientist | AI Enthusiast
-
+# Hi, I'm Akshat Patil 👋
+### Artificial Intelligence & Data Science Engineering Student
 I am an Artificial Intelligence and Data Science student passionate about solving real-world problems through data and AI. With expertise in Data Science, Machine Learning, Data Analysis, and Data Visualization, I have developed and deployed industry-oriented projects. I believe in continuous learning and collaboration, sharing my work and experiences on platforms like LinkedIn and GitHub.
 
 ### 🚀 Skills and Tools
@@ -9,7 +8,7 @@ I am an Artificial Intelligence and Data Science student passionate about solvin
 - **Data Science & ML Tools:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
 - **AI Technologies:** Large Language Models (LLMs), Generative AI, Prompt Engineering
-- **Other Tools:** MS Excel, MS SQL Server, Git, GitHub, ChatGPT, VS Code
+- **Other Tools:** MS Excel, MS SQL Server, GitHub, ChatGPT, VS Code
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
