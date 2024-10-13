@@ -23,7 +23,6 @@ I actively share my learnings and projects on platforms like LinkedIn and GitHub
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-
 ### 📂 Featured Projects
   
 - **[Loan Approval Prediction](https://github.com/akshat-patil/Technokraft-Internship)**  
@@ -43,8 +42,10 @@ I actively share my learnings and projects on platforms like LinkedIn and GitHub
 - **[Real-Time Integration of Air Pressure Sensor with PLC (Siemens S7-1500) and Machine Learning Model](https://github.com/akshat-patil/TDK-Internship)**  
   - *Description:* Integrated an air pressure sensor with Siemens S7-1500 PLC and a machine learning model to monitor and predict real-time pressure variations.
   - *Technologies:* Python, Snap7, Siemens S7-1500 PLC, Machine Learning
-
-
+ 
+- **[Spotify Music Analysis](https://github.com/akshat-patil/Spotify-Music-Analysis)**  
+  - *Description:* Developed an interactive dashboard using Power BI to analyze Spotify's most popular tracks, artists, and streaming trends over time.
+  - *Technologies:* Power BI, Spotify Data, Data Visualization 
 
 ### 📫 Connect with Me
 
