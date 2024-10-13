@@ -1,11 +1,17 @@
 # Hi, I'm Akshat Patil 👋
 ### Artificial Intelligence & Data Science Engineering Student
-I am an Artificial Intelligence and Data Science student passionate about solving real-world problems through data and AI. With expertise in Data Science, Machine Learning, Data Analysis, and Data Visualization, I have developed and deployed industry-oriented projects. I believe in continuous learning and collaboration, sharing my work and experiences on platforms like LinkedIn and GitHub.
+I am an Artificial Intelligence and Data Science student passionate about solving real-world problems through data and AI. My journey includes working on a wide range of industry-oriented and real-time projects applying my expertise in Data Science, Machine Learning, Deep Learning, Data Analysis, Data Visualization, etc.
+
+### 🌟 About Me
+I am a focus-driven individual currently pursuing a degree in Artificial Intelligence and Data Science. My passion lies in using data to uncover insights, optimize processes, and develop intelligent systems that make a tangible impact.
+
+I enjoy collaborating with others on technical challenges, and I believe in continuous learning and time management. I believe in continuous learning and collaboration, sharing my work and experiences on platforms like LinkedIn and GitHub.
+I actively share my learnings and projects on platforms like LinkedIn and GitHub to inspire and connect with like-minded professionals.
 
 ### 🚀 Skills and Tools
 
 - **Languages:** Python, SQL
-- **Data Science & ML Tools:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+- **Data Science & ML Tools:** Pandas, NumPy, Scikit-learn, TensorFlow
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
 - **AI Technologies:** Large Language Models (LLMs), Generative AI, Prompt Engineering
 - **Other Tools:** MS Excel, MS SQL Server, GitHub, ChatGPT, VS Code
@@ -18,20 +24,27 @@ I am an Artificial Intelligence and Data Science student passionate about solvin
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 
-### 🌟 About Me
-I am a focus-driven individual currently pursuing a degree in Artificial Intelligence and Data Science. My journey includes working on a wide range of industry-oriented and real-time projects, applying my expertise in Data Science, Machine Learning, and Artificial Intelligence. My passion lies in using data to uncover insights, optimize processes, and develop intelligent systems that make a tangible impact.
-
-I enjoy collaborating with others on technical challenges, and I believe in continuous learning and time management. I actively share my learnings and projects on platforms like LinkedIn and GitHub to inspire and connect with like-minded professionals.
-
 ### 📂 Featured Projects
   
 - **[Loan Approval Prediction](https://github.com/akshat-patil/Technokraft-Internship)**  
   - *Description:* Developed a machine learning model to predict loan approval and created an informative dashboard using Tableau.
-  - *Technologies:* Python, Scikit-learn, Tableau, Pandas
+  - *Technologies:* Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Tableau
 
 - **[Big Mart Sales Prediction](https://github.com/akshat-patil/Academor-Internship)**  
-  - *Description:* Implemented machine learning algorithms to optimize inventory management for Big Mart.
-  - *Technologies:* Python, Pandas, Scikit-learn
+  - *Description:* 
+**Major Project:** Implemented machine learning algorithms to optimize inventory management for Big Mart.
+**Minor Project:** developed a Student Planner System in Python to help students efficiently track assignments, deadlines, and academic responsibilities.
+  - *Technologies:* Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+
+- **[PLC (Siemens S7-1500) Programming using Python and Snap7 Library](https://github.com/akshat-patil/TDK-Internship)**  
+  - *Description:* Programmed Siemens S7-1500 PLC using Python and Snap7 to automate industrial processes by enabling communication between PLC and external systems.
+  - *Technologies:* Python, Snap7, Siemens S7-1500 PLC
+
+- **[Real-Time Integration of Air Pressure Sensor with PLC (Siemens S7-1500) and Machine Learning Model](https://github.com/akshat-patil/TDK-Internship)**  
+  - *Description:* Integrated an air pressure sensor with Siemens S7-1500 PLC and a machine learning model to monitor and predict real-time pressure variations.
+  - *Technologies:* Python, Snap7, Siemens S7-1500 PLC, Machine Learning
+
+
 
 ### 📫 Connect with Me
 
