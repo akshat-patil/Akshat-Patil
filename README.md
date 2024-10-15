@@ -54,7 +54,6 @@ I actively share my learnings and projects on platforms like LinkedIn and GitHub
 
 ### My Portfolio Website
 
-https://akshat-patil.github.io/portfolio/
 **[My Portfolio](https://akshat-patil.github.io/portfolio/)**
 
 ### 📫 Connect with Me
