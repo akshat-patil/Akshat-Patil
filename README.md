@@ -52,6 +52,11 @@ I actively share my learnings and projects on platforms like LinkedIn and GitHub
 **[My Articles](https://github.com/akshat-patil/Articles)**
 - **Description:** A collection of articles I’ve written on various topics related to Artificial Intelligence, Data Science, and technology trends. These articles aim to share knowledge and insights with the community.
 
+### My Portfolio Website
+
+https://akshat-patil.github.io/portfolio/
+**[My Portfolio](https://akshat-patil.github.io/portfolio/)**
+
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-patil-468564283/)
