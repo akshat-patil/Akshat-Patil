@@ -45,7 +45,13 @@ I actively share my learnings and projects on platforms like LinkedIn and GitHub
  
 - **[Spotify Music Analysis](https://github.com/akshat-patil/Spotify-Music-Analysis)**  
   - *Description:* Developed an interactive dashboard using Power BI to analyze Spotify's most popular tracks, artists, and streaming trends over time.
-  - *Technologies:* Power BI, Spotify Data, Data Visualization 
+  - *Technologies:* Power BI, Spotify Data, Data Visualization
+ 
+- **[Sales Prediction Dashboard](https://github.com/akshat-patil/Spotify-Music-Analysis)**  
+  - *Description:* A sales prediction system that predicts quantity sold and revenue using machine learning, with a web interface built in Flask for user input.
+  - *Technologies:* MySQL, MySQL Workbench, Python, Pandas, NumPy, Scikit-learn, Flask, HTML, CSS
+ 
+
 
 ### 📝 Articles
 
