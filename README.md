@@ -46,10 +46,10 @@ I’m looking to apply my skills in data analysis, machine learning, and AI to r
  
 ### 📜 Licenses and Certificates
 
-- **[KLiC Certificate Course in Advanced Excel](https://github.com/akshat-patil/Licenses-and-Certificates)
-- **[Career Essentials in Data Analysis by Microsoft and LinkedIn](https://github.com/akshat-patil/Licenses-and-Certificates)
-- **[Getting Started with Large Language Models](https://github.com/akshat-patil/Licenses-and-Certificates)
-- **[Building LLM Applications using Prompt Engineerirng](https://github.com/akshat-patil/Licenses-and-Certificates)
+- **[KLiC Certificate Course in Advanced Excel](https://github.com/akshat-patil/Licenses-and-Certificates)**
+- **[Career Essentials in Data Analysis by Microsoft and LinkedIn](https://github.com/akshat-patil/Licenses-and-Certificates)**
+- **[Getting Started with Large Language Models](https://github.com/akshat-patil/Licenses-and-Certificates)**
+- **[Building LLM Applications using Prompt Engineerirng](https://github.com/akshat-patil/Licenses-and-Certificates)**
 - **[Accenture North America - Data Analytics and Visualization Job Simulation](https://github.com/akshat-patil/Licenses-and-Certificates)
 
 ### 📝 Articles
