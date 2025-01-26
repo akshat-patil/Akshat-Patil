@@ -44,12 +44,18 @@ I’m looking to apply my skills in data analysis, machine learning, and AI to r
   - *Image Captioning:* Developed an image captioning system using the BLIP model to generate descriptive captions for images.
   - *Technologies:* Python, Flask, PyTorch, Hugging Face Transformers, BLIP model, NLP, Deep Learning.
  
+### 📜 Licenses and Certificates
 
+**[KLiC Certificate Course in Advanced Excel]()
+**[Career Essentials in Data Analysis by Microsoft and LinkedIn]()
+**[Getting Started with Large Language Models]()
+**[Building LLM Applications using Prompt Engineerirng]()
+**[Accenture North America - Data Analytics and Visualization Job Simulation]()
 
 ### 📝 Articles
 
 **[My Articles](https://github.com/akshat-patil/Articles)**
-- **Description:** A collection of articles I’ve written on various topics related to Artificial Intelligence, Data Science, and technology trends. These articles aim to share knowledge and insights with the community.
+- **Description:** A collection of articles I’ve written on various topics related to Artificial Intelligence, Data Science, and technology trends. These articles aim to share knowledge and insights with the community. 
 
 ### My Portfolio Website
 
