@@ -1,20 +1,18 @@
 # Hi, I'm Akshat Patil 👋
 ### Artificial Intelligence & Data Science Engineering Student
-I am an Artificial Intelligence and Data Science student passionate about solving real-world problems through data and AI. My journey includes working on a wide range of industry-oriented and real-time projects applying my expertise in Data Science, Machine Learning, Deep Learning, Data Analysis, Data Visualization, etc.
-
 ### 🌟 About Me
-I am a focus-driven individual currently pursuing a degree in Artificial Intelligence and Data Science. My passion lies in using data to uncover insights, optimize processes, and develop intelligent systems that make a tangible impact.
+I am an AI and Data Science student with a strong interest in using data to solve problems. I enjoy working on projects that involve machine learning, data analysis, and AI, and I’m always looking for new ways to apply what I learn. I believe in continuous learning and improving my skills through hands-on experience. I enjoy collaborating with others, sharing ideas, and solving challenges together.
 
-I enjoy collaborating with others on technical challenges, and I believe in continuous learning and time management. I believe in continuous learning and collaboration, sharing my work and experiences on platforms like LinkedIn and GitHub.
-I actively share my learnings and projects on platforms like LinkedIn and GitHub to inspire and connect with like-minded professionals.
+### 🎯 Objective
+I’m looking to apply my skills in data analysis, machine learning, and AI to real-world problems. My goal is to work in a team where I can contribute to solving challenges and continue learning in the field of AI and Data Science. I want to use my knowledge to create meaningful solutions and grow in a professional environment.
 
 ### 🚀 Skills and Tools
 
-- **Languages:** Python, SQL
-- **Data Science & ML Tools:** Pandas, NumPy, Scikit-learn, TensorFlow
-- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
+- **Languages & Technologies:** Python, Flask, Tableau, Power BI, Advanced Excel, Pivot Tables, VLOOKUP, Conditional Formatting, Macros.
+- **Database Management Systems (DBMS):** SQL, SQL Server, MySQL
+- **Data Science:** Statistical Data Analysis, Regression Analysis, Machine Learning, Deep Learning, NLP, Data Visualization, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyTorch
 - **AI Technologies:** Large Language Models (LLMs), Generative AI, Prompt Engineering
-- **Other Tools:** MS Excel, MS SQL Server, GitHub, ChatGPT, VS Code
+- **Soft Skills:** Teamwork, Collaboration, Time Management, Problem Solving.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -25,15 +23,10 @@ I actively share my learnings and projects on platforms like LinkedIn and GitHub
 
 ### 📂 Featured Projects
   
-- **[Loan Approval Prediction](https://github.com/akshat-patil/Technokraft-Internship)**  
-  - *Description:* Developed a machine learning model to predict loan approval and created an informative dashboard using Tableau.
-  - *Technologies:* Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Tableau
-
-- **[Big Mart Sales Prediction](https://github.com/akshat-patil/Academor-Internship)**  
-  - *Description:* 
-**Major Project:** Implemented machine learning algorithms to optimize inventory management for Big Mart.
-**Minor Project:** developed a Student Planner System in Python to help students efficiently track assignments, deadlines, and academic responsibilities.
-  - *Technologies:* Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+- **[Data Science Projects](https://github.com/akshat-patil/Academor-Internship)**  
+  - *Loan Approval System:* Developed a classification model to predict loan approval decisions for customers based on key financial and demographic features.
+  - *Big Mart Sales Prediction System:* Built a regression model to forecast sales figures for Big Mart using various product and store-related attributes.
+  - *Technologies:* Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Supervised Learning, Regression, Classification.
 
 - **[PLC (Siemens S7-1500) Programming using Python and Snap7 Library](https://github.com/akshat-patil/TDK-Internship)**  
   - *Description:* Programmed Siemens S7-1500 PLC using Python and Snap7 to automate industrial processes by enabling communication between PLC and external systems.
@@ -47,9 +40,9 @@ I actively share my learnings and projects on platforms like LinkedIn and GitHub
   - *Description:* Developed an interactive dashboard using Power BI to analyze Spotify's most popular tracks, artists, and streaming trends over time.
   - *Technologies:* Power BI, Spotify Data, Data Visualization
  
-- **[Sales Prediction System](https://github.com/akshat-patil/Sales-Prediction)**  
-  - *Description:* A sales prediction system that predicts quantity sold and revenue using machine learning, with a web interface built in Flask for user input.
-  - *Technologies:* MySQL, MySQL Workbench, Python, Pandas, NumPy, Scikit-learn, Flask, HTML, CSS
+- **[Sales Prediction System](https://github.com/akshat-patil/Image-Captioning-System)**  
+  - *Image Captioning:* Developed an image captioning system using the BLIP model to generate descriptive captions for images.
+  - *Technologies:* Python, Flask, PyTorch, Hugging Face Transformers, BLIP model, NLP, Deep Learning.
  
 
 
